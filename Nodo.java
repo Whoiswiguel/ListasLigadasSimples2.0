@@ -1,13 +1,7 @@
-/**
- * Nodo
- */
-public class Nodo {
-
-    int clave;
-    Nodo siguiente;
-
-    public Nodo(int clave) {
-        this.clave = clave;
-        this.siguiente = null;
+//Muñoz Hernandez Miguel Angel 
+//Listas ligadas simples 
+public class Nodo{
+    int dato;
+    Nodo next;
     }
-}
+
